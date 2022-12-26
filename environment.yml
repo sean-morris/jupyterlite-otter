@@ -1,0 +1,6 @@
+name: xeus-python-kernel
+channels:
+  - conda-forge
+dependencies:
+  #- otter-grader==4.2.1
+  - numpy
